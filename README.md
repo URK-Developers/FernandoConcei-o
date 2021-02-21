@@ -1,3 +1,3 @@
 # FernandoConcei-o
 Portifólio
-<h1>Comesando a desenvolver de um jeito diferente</h1>
+<h1>Começando a desenvolver de um jeito diferente</h1>
